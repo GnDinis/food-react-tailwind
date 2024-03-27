@@ -12,7 +12,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # Food Delivery Website
-Chef's Doorstep, is a one-stop food delivery hub. Browse local restaurants and order delicious meals with ease. Created using React and Tailwind CSS.
+Door step, is a one-stop food delivery hub. Browse local restaurants and order delicious meals with ease. Created using React and Tailwind CSS.
 
 ## Screenshots:
 <p align="center">
